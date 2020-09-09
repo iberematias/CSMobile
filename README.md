@@ -25,9 +25,9 @@ Bibliotecas usadas:
 
 <div id='tela1'/>  
 
-## Telas de entrada do código para consulta.  
+## Telas de entrada do código para consulta. 
 
-![](https://github.com/iberematias/CSMobile/blob/master/assets/screen/IMG_0001.png)
+![](https://github.com/iberematias/CSMobile/blob/master/assets/screen/IMG_0001.PNG)
 
 *******
 
@@ -35,7 +35,7 @@ Bibliotecas usadas:
 
 ## Telas do resultado da consulta.   
 
-![](https://github.com/iberematias/CSMobile/blob/master/assets/screen/IMG_0002.png)
+![](https://github.com/iberematias/CSMobile/blob/master/assets/screen/IMG_0002.PNG)
 
 *******
 
@@ -43,6 +43,6 @@ Bibliotecas usadas:
 
 ## Telas do mapa, localização do produtor.    
 
-![](https://github.com/iberematias/CSMobile/blob/master/assets/screen/IMG_0003.png)
+![](https://github.com/iberematias/CSMobile/blob/master/assets/screen/IMG_0003.PNG)
 
 *******
